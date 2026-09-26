@@ -1,0 +1,4 @@
+interface:
+  display_name: "学术文献重命名"
+  short_description: "维护统一书目命名规则，支持本地与在线文献的预览、安全改名和日志恢复"
+  default_prompt: "使用 $academic-rename 为我提供的文献文件或链接生成重命名预览。"
